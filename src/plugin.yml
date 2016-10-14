@@ -1,0 +1,7 @@
+name: RandomTP
+version: 1.0
+main: me.abandoncaptian.RandomTP.Main
+description: Random Teleportation plugin made by abandoncaptian
+commands:
+  rtp:
+    description: Teleports the player to a random location
